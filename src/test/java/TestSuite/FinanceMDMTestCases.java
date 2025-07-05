@@ -67,6 +67,8 @@ public class FinanceMDMTestCases extends BaseTest {
             extentTest.log(Status.PASS,"Completed Execution for Employee ID= "+workdayEmployeeId);
             extentTest.log(Status.INFO," Clicked on Home Button");
 
+            System.out.println("252772882");
+
             }
         else {
 
